@@ -10,72 +10,42 @@ VNPTPAY
 DIGI SHOP
 VINAPHONE PLUS
 Mua hang DI ĐỘNG
-1
 Sim Số
-2
 Gói Trả trước
-1
 Gói Trả sauGói cước cam kết
-1
 Gói DataVinaPhone 4G
-2
 VinaPhone 5G
-0
 Dịch vụ Giá trị gia tăng
-1
 Dịch vụ Chuyển vùng quốc tếGiới thiệu chung
-2
 Gói cước Roaming
-0
 Chuyển mạng giữ số
-1
 Gọi quốc tế IDD
-2
 eSIM
-3
 VoWifi
 INTERNET - TRUYỀN HÌNH
-1
 Internet - Di động
-2
 Internet - Truyền hình
-3
 Internet Wifi
-4
 Internet - Camera
-1
 Truyền hình MyTVMyTV IPTV
-2
 MyTV OTT
-0
 Family Safe
 CỐ ĐỊNH
 HỖ TRỢ
-1
 Những câu hỏi thường gặp
-2
 Liên hệ
-3
 Hợp đồng mẫu và điều kiện giao dịch chung
-4
 Điểm giao dịch
-5
 Về VNPT VinaPhone
-6
 VNPT Wifi
-7
 HD Call VoLTE
-8
 Thời hạn giữ số thuê bao
-9
 Tra cứu gói cước ngừng hỗ trợ
-10
 Video hướng dẫn sử dụng dịch vụ
 DIGI SHOP
 VNPT MONEY
 MY VNPT
 VINAPHONE PLUS
-1
 VNPT ra mắt gói cước mới tốc độ tối thiểu 300MbpsTừ ngày 1/4/2025, tất cả các gói cước Internet mới của VNPT sẽ được cung cấp với tốc độ tối thiểu 300Mbps, gấp 1,5 lần so với tốc độ tối thiểu trước đó, thiết lập mặt bằng tốc độ mới cao nhất trong các nhà cung cấp hiện tại.
 Thứ Hai 31/03/2025 16:14
 Chi tiết Duy nhất trên My VNPT – Mua & kích hoạt eSIM 100% Online Thứ Tư 26/03/2025 16:19
@@ -133,7 +103,6 @@ Home 3 Giá: 310.000 đ/tháng
 Internet cáp quang: Đường truyền Internet tốc độ ~1Gbps (từ 500Mbps đến 1Gbps tùy thuộc vào chủng loại thiết bị và khoảng cách đến các thiết bị).
 Hỗ trợ nâng cấp công nghệ XGSPON theo khu vực.
 Trang bị 01 Wifi Mesh 5 hoặc 01 Wifi Mesh 6.
-XEM CHI TIẾT
 Home 2
 Home 2 Giá: 240.000 đ/tháng
 Internet cáp quang: Đường truyền Internet tốc độ 500Mbps
@@ -143,50 +112,42 @@ Home 1
 Home 1 Giá: 180.000 đ/tháng
 Internet cáp quang: Đường truyền Internet 300Mbps
 Trang bị thêm Wifi Mesh 5/6 chỉ với 30.000đ/tháng
-XEM CHI TIẾT
 HomeTV VIP 3
 HomeTV VIP 3 Giá: 360.000 đ/tháng
 Internet cáp quang: Đường truyền Internet tốc độ ~1Gbps (từ 500Mbps đến 1Gbps tùy thuộc vào chủng loại thiết bị và khoảng cách đến các thiết bị). Hỗ trợ nâng cấp công nghệ XGSPON theo khu vực.
 Trang bị 01 Wifi Mesh 5 hoặc 01 Wifi Mesh 6
 Truyền hình MyTV VIP app
-XEM CHI TIẾT
 HomeTV VIP 2
 HomeTV VIP 2 Giá: 290.000 đ/tháng
 Internet cáp quang: Đường truyền Internet tốc độ 500Mbps
 Truyền hình MyTV VIP app
-Trang bị thêm Wifi Mesh 5/6 chỉ với 30.000đ/tháng
-XEM CHI TIẾT
+Trang bị thêm Wifi Mesh 5/6 chỉ với 30.000đ/thángT
 HomeTV VIP1
 HomeTV VIP1 Giá: 230.000 đ/tháng
 Internet cáp quang: Đường truyền Internet tốc độ 300Mbps
 Truyền hình MyTV VIP app
 Trang bị thêm Wifi Mesh 5/6 chỉ với 30.000đ/tháng
-XEM CHI TIẾT
 HomeTV 3
 HomeTV 3 Giá: 330.000 đ/tháng
 Internet cáp quang: Đường truyền Internet tốc độ ~1Gbps (từ 500Mbps đến 1Gbps tùy thuộc vào chủng loại thiết bị và khoảng cách đến các thiết bị). Hỗ trợ nâng cấp công nghệ XGSPON theo khu vực.
 Trang bị 01 Wifi Mesh 5 hoặc 01 Wifi Mesh 6
 Truyền hình MyTV app
-XEM CHI TIẾT
 Home Đỉnh 3
 Home Đỉnh 3 Giá: 469.000 đ/tháng
 Internet cáp quang: Đường truyền Internet lên tới 1Gbps
 Truyền hình MyTV app + K+
 Trang bị 01 Wifi Mesh 5/6
 Ưu đãi di động chủ nhóm: 2GB/ngày, 1000p nội mạng, 50 ngoại mạng Miễn phí cuộc gọi nội mạng giữa Thuê bao di động trong nhóm.
-XEM CHI TIẾT
 Home Sành 4
 Home Sành 4 Giá: 329.000 đ/tháng
 Internet cáp quang: Đường truyền Internet 500Mbps
 Trang bị 01 Wifi Mesh 5/6
 Ưu đãi di động chủ nhóm: 3GB/ngày, 1500p nội mạng, 89 ngoại mạng, không trừ cước Data truy cập ứng dụng Zalo. Youtube; Tiktok. MyTV. Miễn phí cuộc gọi nội mạng giữa Thuê bao di động trong nhóm.
-XEM CHI TIẾT
 Home Sành 2
 Home Sành 2 Giá: 249.000 đ/tháng
 Internet cáp quang: Đường truyền Internet 300Mbps
 Ưu đãi di động chủ nhóm: 3GB/ngày, 1500p nội mạng, 89 ngoại mạng, không trừ cước Data truy cập ứng dụng Zalo. Youtube; Tiktok. MyTV.
 Miễn phí cuộc gọi nội mạng giữa Thuê bao di động trong nhóm.
-XEM CHI TIẾT
 Hỗ Trợ
 Thông tin liên hệ Điểm giao dịch Thời gian giữ số VinaPhone Plus
 DownloadỨng dụng chăm sóc khách hàng của VinaPhone, cung cấp hàng ngàn ưu đãi cho khách hàng.
@@ -198,9 +159,6 @@ VNPT Money
 Download VNPT Money chuyển tiền miễn phí thanh toán mọi lúc. Nhiều chương trình ưu đãi, khuyến mãi hấp dẫn
 18001091 | 18001166 | 18001260
 cskh@vnpt.vn
-Q&A
-Chính sách bảo vệ dữ liệu cá nhân
-Điều khoản
 ĐƯỢC CHỨNG NHẬN
 Theo dõi chúng tôi:
 VNPT VinaPhone © 2019.
@@ -214,7 +172,7 @@ Giấy phép cung cấp dịch vụ viễn thông số 18/GP-CVT do Bộ Thông 
 Nội dung của popup có thể thêm vào đây.
 Hướng dẫn đăng ký SIM trực tuyếnHỗ trợHD đăng ký SIM OnlineHỗ trợHot deal
 SODA125
-Chi tiếtĐăng ký
+Chi tiết Đăng ký
 Đã bán 11141
 22 49 13 5G SODA155
 1. Ưu đãi gói cước - 8 GB data/ngày (hết dung lượng dừng truy cập) - 1500 phút gọi di động nội mạng VinaPhone - 150 phút gọi di động ngoại mạng - 200 SMS nội mạng VinaPhone - MyTV addon VTVcab (140 kênh truyền hình gồm chùm kênh VTVcab) - Sử dụng nội dung giáo dục Cambridge + Là nền tảng luyện thi tiếng Anh hướng tới chứng chỉ Cambridge dành cho học sinh từ 4 đến 12 tuổi + Các tính năng chính như học bài thông qua video, tự luyện chuyên sâu theo từng kỹ năng Nghe – Nói – Đọc – Viết, thi thử, đánh giá và thống kê, báo cáo giúp người học ôn luyện một cách chủ động và đạt hiệu quả tốt nhất
@@ -259,36 +217,6 @@ Giấy phép cung cấp dịch vụ viễn thông số 469/GP-BTTTT do Bộ Thô
 Giấy phép cung cấp dịch vụ viễn thông số 18/GP-CVT do Bộ Thông tin và Truyền thông cấp ngày 18/01/2018.
 Hỗ trợ khách hàng
 Tổng đài: Internet/MyTV: 1800 1166. Di động: 1800 1091 Email KHTT: cskh@vnpt.vn
-Menu
-1
-Trang chủ
-2
-Di động
-3
-Internet - Truyền hình
-4
-Chuyển mạng giữ số
-5
-Tin tức
-Mạng xã hội
-Chính sách và điều khoản
-1
-Tiêu chuẩn chất lượng sản phẩm/ dịch vụ
-2
-Điều khoản chung
-3
-Chính sách giao hàng
-4
-Chính sách thanh toán
-5
-Chính sách bảo mật thanh toán
-6
-Chính sách đổi trả sản phẩm/dịch vụ
-7
-Chính sách bảo mật thông tin cá nhân
-8
-Quy trình giải quyết khiếu nại
-9
 Quy trình mua bán
 Hỗ trợ khách hàng
 Tổng đài CSKH (8h00-22h00 hàng ngày) Hotline : 1800 1091 Email KHTT: cskh@vnpt.vn
